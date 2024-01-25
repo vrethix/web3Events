@@ -59,3 +59,7 @@ npm start
 - jest: JavaScript testing framework
 - ts-jest: TypeScript preprocessor for Jest
 - ts-node: TypeScript execution and REPL for Node.js
+
+## Tests
+
+- There are total 6 tests, 4 tests are successfully passed
