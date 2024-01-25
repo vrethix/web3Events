@@ -60,6 +60,10 @@ npm start
 - ts-jest: TypeScript preprocessor for Jest
 - ts-node: TypeScript execution and REPL for Node.js
 
+## Rest Endpoint API
+- http://localhost:4000/events/integratorAddress   [Example below]
+- http://localhost:4000/events/0x1aC3EF0ECF4E0ed23D62cab448f3169064230624
+
 ## Tests
 
 - There are total 6 tests, 4 tests are successfully passed
